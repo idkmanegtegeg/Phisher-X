@@ -15,7 +15,11 @@
 ##   LICENSE: GNU GENERAL PUBLIC LICENSE
 ##            Version 3, 29 June 2007
 ##
-##   Copyright (C) 2025 YourName or YourHandle
+##   Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>  
+##   Everyone is permitted to copy and distribute verbatim copies  
+##   of this license document, but changing it is not allowed.
+##
+##   Copyright (C) 2025 idkmanegtegeg
 ##
 ##   This software is free software: you can redistribute it and/or modify
 ##   it under the terms of the GNU General Public License as published by
